@@ -1,10 +1,10 @@
 # Configs for pwills.com
 
-title: "pwills.com"
-name: "pwills.com"
-email: peter@pwills.com
+title: "Thanmai.com"
+name: "Thanmai.com"
+email: travoori@gmail.com
 url: "http://www.pwills.com"
-repository: "peterewills/peterewills.github.io"
+repository: "thanmairavoori/thanmairavoori.github.io"
 
 include:
   - _pages
